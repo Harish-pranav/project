@@ -21,10 +21,7 @@ Create a HTML file and include the needed Bootstrap components.
 
 ## Step 6:
 Publish the website in the LocalHost.
-# OUTPUT :
 
-
-<img width="1919" height="971" alt="Screenshot 2025-12-28 103002" src="https://github.com/user-attachments/assets/e51af9f9-953c-4a01-a12f-cf88773e0b77" />
 
 # PROGRAM :
 ```
@@ -329,6 +326,10 @@ footer {
         font-size: 1em;
     }
 }
+```
+# OUTPUT :
 
+
+<img width="1919" height="971" alt="Screenshot 2025-12-28 103002" src="https://github.com/user-attachments/assets/e51af9f9-953c-4a01-a12f-cf88773e0b77" />
 # RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
